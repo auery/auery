@@ -2,7 +2,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=marikinonline4&color=D52A5D&style=flat-square&label=沙)
+![](https://komarev.com/ghpvc/?username=marikinonline4&color=3f995a&style=flat-square&label=沙)
 
 ᴸᵒᵒᵏⁱⁿᵍ ᶠᵒʳ ᵐʸ ᵐᵃⁱⁿ?
 
@@ -13,7 +13,7 @@
 
 [sign atabook](https://kinginyellow.atabook.org)
 
-<img width="192" height="192" alt="image" src="https://github.com/user-attachments/assets/3d182697-1add-44eb-8c65-e1c952e7eb03" />
+<img width="358" height="382" alt="image" src="https://github.com/user-attachments/assets/bbca9454-2891-448a-9e48-51b542d5f617" />
 
 
 
